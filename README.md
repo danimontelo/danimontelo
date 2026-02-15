@@ -2,7 +2,7 @@
 
 **Desenvolvedora Full Stack em formação** | Servidora Pública de TI | São Luís - MA 🇧🇷
 
-Sou formada em Ciência da Computação com **12 anos de experiência em TI pública**, atuando no Ministério Público do Estado do Maranhão. Minha trajetória inclui infraestrutura de redes, gestão de processos de aquisição de soluções de TI e, mais recentemente, uma paixão renovada pelo desenvolvimento web.
+Sou formada em Ciência da Computação com **12 anos de experiência em TI pública**, atuando no Ministério Público do Estado do Maranhão (MPMA). Minha trajetória inclui infraestrutura de redes, gestão de processos de aquisição de soluções de TI e, mais recentemente, uma paixão renovada pelo desenvolvimento web.
 
 Atualmente estou em **transição de carreira para Full Stack Developer** através do bootcamp da [TripleTen](https://tripleten.com/pt-bra/), onde estou construindo uma base sólida em HTML, CSS, JavaScript e muito mais.
 
