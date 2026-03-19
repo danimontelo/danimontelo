@@ -43,7 +43,7 @@ Banco de Dados ░░░░░░░░░░░░░░░░   Em breve
 
 Além do código, tenho uma vida bem diversificada:
 
-- 💃 Bailarina de dança do ventre na companhia **Thabit Danças**
+- 💃 Bailante em várias modalidades de **dança**
 - 🎮 Entusiasta de **games vintage** e **anime clássico**
 - 🚀 Apaixonada por **ficção científica**
 - 📈 Empreendedora em **marketing digital** (Meta Ads, Google Ads)
