@@ -11,7 +11,7 @@ Atualmente estou em **transição de carreira para Full Stack Developer** atrav�
 ## 🚀 O que estou aprendendo
 
 ```
-Frontend       ████████░░░░░░░░   HTML, CSS (em andamento)
+Frontend       ████████████░░░   HTML, CSS (em andamento)
 JavaScript     ░░░░░░░░░░░░░░░░   Em breve
 Backend        ░░░░░░░░░░░░░░░░   Em breve
 Banco de Dados ░░░░░░░░░░░░░░░░   Em breve
