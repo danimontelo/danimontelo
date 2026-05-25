@@ -11,10 +11,10 @@ Atualmente estou em **transição de carreira para Full Stack Developer** atrav�
 ## 🚀 O que estou aprendendo
 
 ```
-Frontend       ████████████░░░   HTML, CSS (em andamento)
-JavaScript     ░░░░░░░░░░░░░░░░   Em breve
-Backend        ░░░░░░░░░░░░░░░░   Em breve
-Banco de Dados ░░░░░░░░░░░░░░░░   Em breve
+Frontend       ███████████████   HTML, CSS (concluído)
+JavaScript     ███░░░░░░░░░░░░░  Em andamento
+Backend        ░░░░░░░░░░░░░░░░  Em breve
+Banco de Dados ░░░░░░░░░░░░░░░░  Em breve
 ```
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -25,6 +25,7 @@ Banco de Dados ░░░░░░░░░░░░░░░░   Em breve
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-F05032?style=for-the-badge&logo=javascript&logoColor=white)
 
 **Da minha experiência em TI:**
 
@@ -37,7 +38,7 @@ Banco de Dados ░░░░░░░░░░░░░░░░   Em breve
 | Projeto | Descrição | Tecnologias | Status |
 |---------|-----------|-------------|--------|
 | [Sobre Mim](link-do-repo) | Página pessoal responsiva | HTML, CSS | ✅ Concluído |
-| Sprint 2 | Em breve | - | 🔜 Próximo |
+| Sprint 7 | Em andamento | - | 🔜 Próximo |
 
 ## 🌟 Um pouco sobre mim
 
