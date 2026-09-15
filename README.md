@@ -12,9 +12,9 @@ Atualmente estou em **transição de carreira para Full Stack Developer** atrav�
 
 ```
 Frontend       ███████████████   HTML, CSS (concluído)
-JavaScript     ███░░░░░░░░░░░░░  Em andamento
-Backend        ░░░░░░░░░░░░░░░░  Em breve
-Banco de Dados ░░░░░░░░░░░░░░░░  Em breve
+JavaScript     ████████████░░░  Em andamento
+Backend        ░░░░░░░░░░░░░░░  Em breve
+Banco de Dados ░░░░░░░░░░░░░░░  Em breve
 ```
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -37,7 +37,7 @@ Banco de Dados ░░░░░░░░░░░░░░░░  Em breve
 
 | Projeto | Descrição | Tecnologias | Status |
 |---------|-----------|-------------|--------|
-| [Sobre Mim](link-do-repo) | Página pessoal responsiva | HTML, CSS | ✅ Concluído |
+| Sobre Mim | Página pessoal responsiva | HTML, CSS | ✅ Concluído |
 | Sprint 7 | Em andamento | - | 🔜 Próximo |
 
 ## 🌟 Um pouco sobre mim
