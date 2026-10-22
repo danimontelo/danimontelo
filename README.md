@@ -38,7 +38,7 @@ Banco de Dados ░░░░░░░░░░░░░░░  Em breve
 | Projeto | Descrição | Tecnologias | Status |
 |---------|-----------|-------------|--------|
 | Sobre Mim | Página pessoal responsiva | HTML, CSS | ✅ Concluído |
-| Sprint 7 | Em andamento | - | 🔜 Próximo |
+| Sprint 9 | Em andamento | - | 🔜 Próximo |
 
 ## 🌟 Um pouco sobre mim
 
